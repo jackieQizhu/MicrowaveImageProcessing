@@ -1,1 +1,13 @@
 This is folder for FastICA
+1. Pays attention to the file "CrossCorrelationExample.m".
+
+2. Running the code 
+      addpath('/Users/qizhu/Documents/MATLAB/Matlab Code-2/FastICA_25')
+   Before running FastICA/PCA algorithm
+   
+3. Changes input variable X, PCNo, ICNo for different experimental set-up
+   Checks following link for the tutorial
+   https://www.youtube.com/watch?v=3-mhd5C-cpU
+   
+4. File 'emd_n.m' shows the example of using algorithm EMD in the paper
+   "Complex Empirical Decomposition Method in Radar Signal Processing"
