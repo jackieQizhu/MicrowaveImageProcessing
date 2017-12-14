@@ -1,2 +1,2 @@
 # MicrowaveImageProcessing
-Microwave Image Processing Projec
+Microwave Image Processing Project
